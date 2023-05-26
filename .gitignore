@@ -1,6 +1,7 @@
 # Ignora Archivos img
 *.img
 *.jpg
+*.png
 # Ignorar Archivos de Texto
 
 *.txt
