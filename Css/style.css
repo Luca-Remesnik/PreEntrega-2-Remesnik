@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+
+/* Footer */
+
+
+footer {
+    padding: 20px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.li-second-item {
+    margin: 20px;
+    list-style: none;
+}   
+.div-logo {
+    display: flex;
+    align-items: center;
+}
+.logo2 {
+    display: flex;
+    
+}
+
+
+
