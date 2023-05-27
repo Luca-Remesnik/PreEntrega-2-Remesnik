@@ -38,4 +38,12 @@ footer {
 }
 
 
+/* Pseudoclases */
 
+.hover-item:hover {
+    width: 520px;
+}
+
+.transition {
+    transition: 1s;
+}
